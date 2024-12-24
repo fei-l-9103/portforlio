@@ -37,17 +37,17 @@ import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 
-import directv from "./company/DirecTV.png"
-import dcc from "./company/dcc.png";
-import mil from "./company/mil.png";
-import microverse from "./company/microverse.png";
+import directv from "./company/directv-logo.png"
+import openloop from "./company/openloop-logo.png";
+import awsLogo from "./company/aws-logo.png";
+import intuit from "./company/intuit-logo.png";
+import carleton from "./company/carleton-logo.png";
+import hkust from "./company/HKUST-logo.png";
 
 import DirecTV from "./projects/DirecTV.png";
-import healthtap from "./projects/HealthTap.png";
-import pandora_insurance from "./projects/pandora_insurance.png";
-import prodigy_education from "./projects/prodigy_education.png";
-import thrive_market from "./projects/thrive_market.png";
-import space from "./projects/space-hub.png";
+import OpenLoop from "./projects/openloop.png";
+import AmazonAmplify from "./projects/aws_amplify.png";
+import Turbotax from "./projects/turbotax.png";
 
 export {
   bwmap,
@@ -85,13 +85,13 @@ export {
   tailwind,
   typescript,
   DirecTV,
-  healthtap,
-  pandora_insurance,
-  prodigy_education,
-  thrive_market,
-  space,
+  OpenLoop,
+  Turbotax,
+  AmazonAmplify,
   directv,
-  dcc,
-  mil,
-  microverse,
+  awsLogo,
+  openloop,
+  intuit,
+  carleton,
+  hkust
 };
