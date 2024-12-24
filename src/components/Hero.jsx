@@ -47,7 +47,6 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
               Senior Software Engineer <br className="sm:block hidden" />
-              https://www.linkedin.com/in/allenliu598
             </p>
           </div>
           <div
@@ -82,13 +81,13 @@ const Hero = () => {
 
         {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
         <div>
-          <img
+          {/* <img
             className="absolute bottom-0 ml-[50vw] 
             lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[83vw]
             sm:h-[50vh] md:h-[30vh] xl:h-[30vh]"
             src={avatar}
             alt="avatar"
-          />
+          /> */}
         </div>
       </section>
     </>

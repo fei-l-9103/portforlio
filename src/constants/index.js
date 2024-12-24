@@ -175,7 +175,7 @@ const experiences = [
     company_name: "Carleton University",
     icon: carleton,
     iconBg: "#333333",
-    date: "Oct 2010 - May 2012",
+    date: "2010 - 2012",
     description: [],
   },
   {
@@ -183,7 +183,7 @@ const experiences = [
     company_name: "Hong Kong University of Science and Technology",
     icon: hkust,
     iconBg: "#333333",
-    date: "Oct 2006 - May 2010",
+    date: "2006 - 2010",
     description: [],
   },
 ];
