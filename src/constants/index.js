@@ -127,7 +127,7 @@ const experiences = [
     company_name: "DirecTV",
     icon: directv,
     iconBg: "#333333",
-    date: "Oct 2022 - Dec 2024",
+    date: "2022",
     description: [],
   },
   {
@@ -135,7 +135,7 @@ const experiences = [
     company_name: "OpenLoop",
     icon: openloop,
     iconBg: "#333333",
-    date: "Feb 2021 - Oct 2022",
+    date: "2021",
     description: [],
   },
   {
@@ -143,7 +143,7 @@ const experiences = [
     company_name: "OpenLoop",
     icon: openloop,
     iconBg: "#333333",
-    date: "Mar 2018 - Jan 2021",
+    date: "2018",
     description: [],
   },
   {
@@ -151,7 +151,7 @@ const experiences = [
     company_name: "Intuit",
     icon: intuit,
     iconBg: "#333333",
-    date: "Aug 2016 - Mar 2018",
+    date: "2016",
     description: [],
   },
   {
@@ -159,7 +159,7 @@ const experiences = [
     company_name: "Amazon Web Services",
     icon: awsLogo,
     iconBg: "#333333",
-    date: "May 2013 - Jul 2016",
+    date: "2013",
     description: [],
   },
   {
@@ -167,7 +167,7 @@ const experiences = [
     company_name: "Amazon Web Services",
     icon: awsLogo,
     iconBg: "#333333",
-    date: "Oct 2012 - May 2013",
+    date: "2012",
     description: [],
   },
   {
@@ -175,15 +175,15 @@ const experiences = [
     company_name: "Carleton University",
     icon: carleton,
     iconBg: "#333333",
-    date: "2010 - 2012",
+    date: "2010",
     description: [],
   },
   {
-    title: "Bacheolr Degree",
+    title: "Bachelor Degree",
     company_name: "Hong Kong University of Science and Technology",
     icon: hkust,
     iconBg: "#333333",
-    date: "2006 - 2010",
+    date: "2006",
     description: [],
   },
 ];
