@@ -212,9 +212,9 @@ const projects = [
   },
   {
     id: "project-4",
-    name: "Amazon Amplify",
+    name: "Amazon Jobs",
     description:
-      "A cloud-powered platform that streamlines backend and frontend development for scalable web and mobile applications.",
+      "A hiring platform where individuals can explore and apply for various roles across Amazon's global teams, industries, and locations.",
     image: AmazonHiring,
   },
 ];
