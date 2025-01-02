@@ -46,7 +46,7 @@ import hkust from "./company/HKUST-logo.png";
 
 import DirecTV from "./projects/DirecTV.png";
 import OpenLoop from "./projects/openloop.png";
-import AmazonHiring from "./projects/amazon_hiring.png";
+import AmazonHiring from "./projects/amazon_hiring.jpg";
 import Turbotax from "./projects/turbotax.png";
 
 export {
