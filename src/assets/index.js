@@ -46,7 +46,7 @@ import hkust from "./company/HKUST-logo.png";
 
 import DirecTV from "./projects/DirecTV.png";
 import OpenLoop from "./projects/openloop.png";
-import AmazonAmplify from "./projects/aws_amplify.png";
+import AmazonHiring from "./projects/amazon_hiring.png";
 import Turbotax from "./projects/turbotax.png";
 
 export {
@@ -87,7 +87,7 @@ export {
   DirecTV,
   OpenLoop,
   Turbotax,
-  AmazonAmplify,
+  AmazonHiring,
   directv,
   awsLogo,
   openloop,

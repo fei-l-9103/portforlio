@@ -20,7 +20,7 @@ import {
   DirecTV,
   OpenLoop,
   Turbotax,
-  AmazonAmplify,
+  AmazonHiring,
   directv,
   awsLogo,
   openloop,
@@ -215,7 +215,7 @@ const projects = [
     name: "Amazon Amplify",
     description:
       "A cloud-powered platform that streamlines backend and frontend development for scalable web and mobile applications.",
-    image: AmazonAmplify,
+    image: AmazonHiring,
   },
 ];
 
