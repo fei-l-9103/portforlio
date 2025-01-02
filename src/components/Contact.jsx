@@ -33,7 +33,7 @@ const Contact = () => {
         'template_hpvh5jd', // paste your TemplateID here (you'll find it under email templates).
         {
           from_name: form.name,
-          to_name: 'Allen Liu', // put your name here.
+          to_name: 'Fei L', // put your name here.
           from_email: form.email,
           to_email: 'portforlio@norepy.com', //put your email here.
           message: form.message,
